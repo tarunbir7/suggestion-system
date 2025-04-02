@@ -1,2 +1,2 @@
 # suggestion-system
-This repository provide the user to find the leetcode problem easily. The program suggest the next problem based on past activtities. 
+The program suggest the next problem fron leetcode based on past activtities. Just the user enters their profile name and in small amount of time, it gives the suitable problem , the user next can do.
